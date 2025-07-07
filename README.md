@@ -17,4 +17,4 @@ docker compose up
 The site will be available at http://localhost:8081
 
 ## License
-MIT, see [LICENSE](LICENSE).
+BSD Zero Clause License, see [LICENSE.txt](LICENSE.txt).

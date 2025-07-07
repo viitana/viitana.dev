@@ -11,15 +11,8 @@ footer p {
 html {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
   color-scheme: light dark;
-  background-color: #f2f2f2;
-  color: #111;
-}
-
-@media (prefers-color-scheme: dark) {
-  html {
-    background-color: #111;
-    color: #c3c3c3;
-  }
+  background-color: #eeeeee;
+  color: #363636;
 }
 
 body {
@@ -36,4 +29,50 @@ blockquote {
 
 li {
   margin: 0.6rem 0; 
+}
+
+.link-icon {
+  height: 1em;
+  width: auto;
+  vertical-align: text-bottom;
+}
+
+.kopimi {
+  width: 2.5rem;
+}
+
+a {
+  color: #bd641c;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+a:visited {
+  color: #834615;
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  color: #bb1d09;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #262524;
+    color: #c3c3c3;
+  }
+
+  a {
+    color: #ff8827;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #cc7127;
+    text-decoration: underline;
+  }
+
+  a:hover, a:focus {
+    color: #ff432a;
+  }
 }

@@ -1,6 +1,6 @@
 # viitana.dev
 
-A minimal and hopefully fast personal website, listing some of my recent projects. Takes design inspiration from [otherfuckingwebsite.com](http://motherfuckingwebsite.com) and the many derivative sites it inspired.
+A minimal and personal website, listing some of my recent projects. Goes back to the basics with no frameworks, no JS. Takes design inspiration from [otherfuckingwebsite.com](http://motherfuckingwebsite.com) and the many derivative sites it inspired.
 
 ## Usage
 
